@@ -1,0 +1,8 @@
+Resistance Type,Subtype Count,Primary Mechanism,Representative Gene Families,Spearman ρ,q-value
+multidrug,61,Efflux pump,"acrB, mexB, mdtA, tolC, emrD",0.83,0.006
+sulfonamide,4,Target replacement,"sul1, sul2, sul3, sul4",0.74,0.031
+aminoglycoside,76,Antibiotic inactivation,"aadA, aph(3'), aac(6')",0.71,0.038
+bacitracin,1,Target alteration,bacA,0.71,0.038
+chloramphenicol,29,Antibiotic inactivation / efflux,"catA, cmlA, floR",0.69,0.038
+beta_lactam,363,Antibiotic inactivation,"blaTEM, blaOXA, blaCTX-M, blaNDM",0.68,0.046
+trimethoprim,33,Target replacement,"dfrA, dfrB",0.67,0.049

@@ -1,0 +1,5 @@
+Normalization Scheme,rho,p_value,Details
+Primary (Sum-of-logs TPM vs ARG CPC),0.7254901960784313,0.0006554343714426358,Original reported model (n=18)
+Depth-normalized (Stringent Score / Total KO TPM vs ARG CPC),0.8059855521155831,5.3816356061133154e-05,Strictly relative KO fraction in sample
+Log-depth normalized (Stringent Score / Total Log Abundance vs ARG CPC),0.6842105263157895,0.0017375461568507394,Normalized by total log-scale capacity
+Centered Log Ratio (CLR transformed across 903 KOs vs ARG CPC),0.5459236326109391,0.0190927295098751,Compositional transformation (FDR q = 0.143)

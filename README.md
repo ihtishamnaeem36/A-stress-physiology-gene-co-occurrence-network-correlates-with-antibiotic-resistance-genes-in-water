@@ -28,6 +28,9 @@ code/
 │                                    matplotlib, sharing a common style module.
 ├── 03_manuscript_build/            Node.js scripts (using the `docx` package) that assemble
 │                                    the manuscript .docx from text and table data directly.
+├── 04_revision_analyses/           Peer review sensitivity analyses and robustness checks
+│                                    (repeated measures LMM, network null models, LOSO Elastic
+│                                    Net, taxonomic stratification, MGEs, subtype sensitivity).
 ├── _reference_frozen_outputs/      Frozen intermediate CSV/JSON outputs from the core
 │                                    pipeline, committed so every reported number can be
 │                                    checked without re-running anything.

@@ -1,0 +1,12 @@
+Taxonomic_Level,Taxon_Name,Spearman_rho,p_value
+Phylum,Pseudomonadota,-0.015,0.9514
+Phylum,Bacteroidota,-0.513,0.0295
+Phylum,Bacillota,-0.125,0.6215
+Phylum,Actinomycetota,0.092,0.717
+Phylum,Thermodesulfobacteriota,0.375,0.1256
+Class,Betaproteobacteria,0.247,0.3238
+Class,Gammaproteobacteria,-0.249,0.3196
+Class,Bacteroidia,-0.406,0.095
+Class,Clostridia,-0.207,0.4089
+Class,Flavobacteriia,-0.294,0.2361
+Class,Actinomycetes,0.164,0.5153

@@ -1,0 +1,20 @@
+KO ID,Gene Name / Description,Initial Module,Corrected Module,Reason for Correction
+K00169,2-oxoglutarate ferredoxin oxidoreductase subunit alpha,Recombination repair,Electron carrier balance,Keyword collision: ferredoxin oxidoreductase reallocated to electron transport
+K00170,2-oxoglutarate ferredoxin oxidoreductase subunit beta,Recombination repair,Electron carrier balance,Keyword collision: ferredoxin oxidoreductase reallocated to electron transport
+K00171,2-oxoglutarate ferredoxin oxidoreductase subunit delta,Recombination repair,Electron carrier balance,Keyword collision: ferredoxin oxidoreductase reallocated to electron transport
+K00172,2-oxoglutarate ferredoxin oxidoreductase subunit gamma,Recombination repair,Electron carrier balance,Keyword collision: ferredoxin oxidoreductase reallocated to electron transport
+K00179,indolepyruvate ferredoxin oxidoreductase subunit beta,Recombination repair,Electron carrier balance,Keyword collision: oxidoreductase subunit reallocated to electron transport
+K00180,indolepyruvate ferredoxin oxidoreductase subunit alpha,Recombination repair,Electron carrier balance,Keyword collision: oxidoreductase subunit reallocated to electron transport
+K00366,ferredoxin-nitrite reductase,Electron carrier balance,Nitric oxide stress,Pathway curation: specific nitrogen/nitrite reduction to NO/redox balance
+K01159,ATP-dependent DNA helicase RecG,OxyR oxidative DNA repair,Recombination repair,Functional curation: RecG helicase functions in branch migration during recombination
+K01446,N-acetylmuramoyl-L-alanine amidase,Peptidoglycan remodeling,Recombination repair,Keyword collision: amidase gene reallocated based on operon context
+K02405,chemotaxis response regulator CheY,Sigma factors (RpoS/RpoH),Two-component systems,Pathway curation: classic two-component response regulator receiver domain
+K03737,pyruvate ferredoxin oxidoreductase gamma subunit,Recombination repair,Electron carrier balance,Keyword collision: oxidoreductase subunit reallocated to electron transport
+K04090,pyruvate ferredoxin oxidoreductase delta subunit,Recombination repair,Electron carrier balance,Keyword collision: oxidoreductase subunit reallocated to electron transport
+K06876,organic hydroperoxide resistance protein Ohr,Stringent response (ppGpp),OxyR oxidative DNA repair,Functional curation: hydroperoxide peroxidase directly regulated by OxyR
+K07049,peroxiredoxin OsmC,Stringent response (ppGpp),OxyR oxidative DNA repair,Functional curation: peroxide scavenger functioning in oxidative stress defense
+K07804,signal transduction histidine kinase,Two-component systems,Stringent response (ppGpp),Functional curation: dual-sensing kinase linked to ppGpp starvation signaling
+K10911,hybrid sensor histidine kinase,Two-component systems,Stringent response (ppGpp),Functional curation: hybrid kinase regulating stringent alarmone levels
+K13488,alarmone hydrolase/synthase component,Two-component systems,Stringent response (ppGpp),Functional curation: direct catalytic component of stringent response cascade
+K13489,alarmone hydrolase/synthase regulatory subunit,Two-component systems,Stringent response (ppGpp),Functional curation: direct catalytic component of stringent response cascade
+K20978,response regulator transcription factor,Sigma factors (RpoS/RpoH),Two-component systems,Pathway curation: two-component DNA-binding response regulator

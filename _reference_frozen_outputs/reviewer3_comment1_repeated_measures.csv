@@ -1,0 +1,6 @@
+Analysis / Test,Sample Size,Statistic,p_value,Details
+Site-level average (n=9 independent sites),9,"Spearman rho = 0.8500, Pearson r = 0.8169",0.0037047773275858125,Day1 and Day30 averaged per physical site
+Round 2 alone (Day 30 only),9,Spearman rho = 0.8167,0.0072247852463587885,Independent single-timepoint cross-section
+Round 1 alone (Day 1 only),9,Spearman rho = 0.4500,0.22421610749233675,Independent single-timepoint cross-section
+Linear Mixed-Effects Model (LMM),18,Fixed effect beta = 0.336 (z = 4.152),3.295009264646679e-05,"Random site intercept (REML, 9 groups, 2 obs/group)"
+Standardized LMM Fixed Effect,18,Standardized beta = 0.570 (z = 4.152),3.295009264646729e-05,Standardized predictor and response

@@ -1,0 +1,7 @@
+Analysis,Scale,rho,p_value,Interpretation
+Primary Stringent vs ARG Burden,sum-of-log10(x+1) vs 16S CPC,0.7255,0.00066,Baseline primary correlation across 18 samples
+Depth-Normalised Module Score vs ARG Burden,Normalized to total KO depth vs 16S CPC,0.806,5e-05,Strengthens association when controlling for sequencing yield
+Partial Spearman Correlation,Stringent vs ARG | Total Functional KO Abundance,0.6998,0.00177,"Retains significant association controlling for full ~10,389 KO profile"
+Multiple OLS: Stringent Score Beta,Standardized Beta (Stringent),,0.0007,"Beta = +1.098, significant positive independent effect"
+Multiple OLS: Total Abundance Beta,Standardized Beta (Total Abundance),,0.13389,"Beta = -0.410, no independent positive association"
+CLR-Transformed Stringent vs ARG Burden,Centered-log-ratio (zero geometric mean),0.548,0.0186,Attenuates to q = 0.14 due to shared abundance scale coupling (rho=0.74)

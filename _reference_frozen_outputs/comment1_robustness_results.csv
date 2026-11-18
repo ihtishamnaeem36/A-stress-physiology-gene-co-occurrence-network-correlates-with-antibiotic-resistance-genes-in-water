@@ -1,0 +1,8 @@
+Test,rho,p_value,Details
+Primary Stringent vs ARG burden,0.7254901960784313,0.0006554343714426358,Unadjusted Spearman
+Total Functional Abundance vs ARG burden,0.3952528379772961,0.104496652622016,"Full ~10,389 unstratified KOs"
+Stringent vs Total Functional Abundance,0.7378740970072238,0.00047305669590900703,Abundance scale coupling
+Partial Spearman (Stringent vs ARG | Total Abundance),0.6997702234783723,0.0017653205036891606,Controlling for full functional profile
+Multiple OLS: Stringent Score Beta,,0.0007047579440289391,Beta = 1.098
+Multiple OLS: Total Abundance Beta,,0.13389428564979397,Beta = -0.410
+Random 83-KO Permutation Null (n=1000),0.3373642930856553,0.004,"Mean rho = 0.337, 95th pct = 0.606"
